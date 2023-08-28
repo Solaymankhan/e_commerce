@@ -10,6 +10,5 @@
 
 # E Commerce App Video : 
 
-
-<video src="https://drive.google.com/file/d/1tJF0V3L7tAnszFiosALZ8Cs4T1rxTXjk/view?usp=drive_link" width="150" height="300" />
+[Click here to watch the video]([YOUR_VIDEO_LINK](https://drive.google.com/file/d/1tJF0V3L7tAnszFiosALZ8Cs4T1rxTXjk/view?usp=drive_link))
 
