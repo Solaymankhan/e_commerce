@@ -10,5 +10,6 @@
 
 # E Commerce App Video : 
 
-[Click here to watch the video]([YOUR_VIDEO_LINK](https://drive.google.com/file/d/1tJF0V3L7tAnszFiosALZ8Cs4T1rxTXjk/view?usp=drive_link))
+ <p>Click <a href="https://drive.google.com/file/d/1tJF0V3L7tAnszFiosALZ8Cs4T1rxTXjk/view?usp=drive_link" target="_blank">here</a> Watch video</p>
+
 
