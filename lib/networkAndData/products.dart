@@ -1,6 +1,5 @@
-import "../model/productModel.dart";
 
-const product_image = '''{
+const products = '''{
   "story_count": 7,
   "images": [
     "https://shinjukuhalalfood.com/wp-content/uploads/2023/07/Daawat-Everyday-FB-Reel.png",
